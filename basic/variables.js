@@ -11,6 +11,5 @@ anotherVar = "Wow"
     blocked and functional scope, also
     dont use var without declarations
 */
-
 a = [accountID, account_name, age, notInit, anotherVar] 
 console.table(a)
